@@ -1,0 +1,6 @@
+{
+  "name": "SmartShift" - 自動排班系統",
+  "description": "一個具備智慧自動排班功能的系統，支援 10 人編制、三班制（白、小夜、大夜）自動化分配與公平性檢查。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
